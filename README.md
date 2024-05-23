@@ -13,15 +13,6 @@ This is a simple Book Store Project built using the MERN (MongoDB, Express.js, R
 - **Frontend CRUD:** The frontend of the project provides a user interface for performing CRUD operations on books. You can add new books, view existing books, edit book details, and delete books.
 - **Frontend Router:** React Router is used to create client-side routing, allowing seamless navigation between different pages of the frontend application.
 
-## Screenshots
-
-![Home](image.png)
-![Card View](image-1.png)
-![Create Book](image-2.png)
-![Show Book](image-3.png)
-![Edit Book](image-4.png)
-![Delete Book](image-5.png)
-
 ## Getting Started
 
 Follow the steps below to set up the project on your local machine and run it:
@@ -29,7 +20,7 @@ Follow the steps below to set up the project on your local machine and run it:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/JosephDoUrden/Book-Store-Project
+git clone git@github.com:Prabhat070saini/Book-Management.git
 cd book-store-project
 ```
 
